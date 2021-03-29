@@ -74,3 +74,16 @@ packages:
   - lru-cache
   - scheduler
   - argon2
+  - commander
+  - bootstrap
+  - preact
+  - cropperjs
+  - "@microsoft/tsdoc"
+  - typedoc
+  - socket.io
+  - nodemailer
+  - pm2
+  - express-mongo-sanitize
+  - winston
+  - xss-clean
+  - express-status-monitor
