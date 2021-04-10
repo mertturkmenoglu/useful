@@ -88,3 +88,6 @@ packages:
   - xss-clean
   - express-status-monitor
   - express-async-handler
+  - typedi
+  - inversify
+  - docz
