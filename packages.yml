@@ -92,3 +92,4 @@ packages:
   - inversify
   - docz
   - marked
+  - sailsjs
