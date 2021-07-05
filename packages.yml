@@ -93,3 +93,4 @@ packages:
   - docz
   - marked
   - sailsjs
+  - log4js
