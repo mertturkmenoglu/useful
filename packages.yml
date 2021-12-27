@@ -103,3 +103,10 @@ packages:
   - prismjs
   - minimatch
   - https://greensock.com/gsap/
+  - glob
+  - framer motion
+  - debounce
+  - deasync
+  - autoprefixer
+  - @sindresorhus/slugify
+  - @juggle/resize-observer
